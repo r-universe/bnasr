@@ -1,0 +1,18 @@
+[
+  {
+    "package": "hazer",
+    "oncran": true
+  },
+  {
+    "package": "phenoCDM",
+    "oncran": true
+  },
+  {
+    "package": "solrad",
+    "oncran": true
+  },
+  {
+    "package": "xROI",
+    "oncran": true
+  }
+]
