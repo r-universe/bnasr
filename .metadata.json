@@ -1,5 +1,9 @@
 [
   {
+    "package": "hazer",
+    "oncran": true
+  },
+  {
     "package": "phenoCDM",
     "oncran": true
   },
