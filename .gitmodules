@@ -18,6 +18,11 @@
 	url = https://github.com/bnasr/solrad
 	shallow = true
 	registered = true
+[submodule "wiad"]
+	path = wiad
+	url = https://github.com/bnasr/wiad
+	shallow = true
+	registered = true
 [submodule "xROI"]
 	path = xROI
 	url = https://github.com/bnasr/xroi

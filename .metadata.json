@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "wiad",
+    "oncran": true
+  },
+  {
     "package": "xROI",
     "oncran": true
   }
