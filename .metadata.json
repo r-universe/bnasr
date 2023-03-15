@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "xROI",
+    "package": "phenoCDM",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "phenoCDM",
+    "package": "xROI",
     "oncran": true
   }
 ]

@@ -8,9 +8,9 @@
 	url = https://github.com/bnasr/hazer
 	shallow = true
 	registered = true
-[submodule "xROI"]
-	path = xROI
-	url = https://github.com/bnasr/xroi
+[submodule "phenoCDM"]
+	path = phenoCDM
+	url = https://github.com/bnasr/phenocdm
 	shallow = true
 	registered = true
 [submodule "solrad"]
@@ -18,8 +18,8 @@
 	url = https://github.com/bnasr/solrad
 	shallow = true
 	registered = true
-[submodule "phenoCDM"]
-	path = phenoCDM
-	url = https://github.com/bnasr/phenocdm
+[submodule "xROI"]
+	path = xROI
+	url = https://github.com/bnasr/xroi
 	shallow = true
 	registered = true
