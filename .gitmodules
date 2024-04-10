@@ -11,6 +11,3 @@
 [submodule "solrad"]
 	path = solrad
 	url = https://github.com/bnasr/solrad
-[submodule "wiad"]
-	path = wiad
-	url = https://github.com/bnasr/wiad
